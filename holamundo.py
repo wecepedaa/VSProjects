@@ -16,4 +16,6 @@ print(full_name)
 print("Will" in full_name)
 print("Will" not in full_name)
 
+# Configured connectio to SQL Server 192.168.0.89,1847 wcepeda sysadmdell DW_HHS
+
 
