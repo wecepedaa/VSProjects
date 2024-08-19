@@ -24,3 +24,7 @@ print("Will" not in full_name)
 # Snipets - pkantillas de codigo reutilizable
 #
 # Curso git
+# Datos compuestos
+#
+
+# lista = [1,2,"e", false]
