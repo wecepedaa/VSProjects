@@ -1,5 +1,7 @@
 import os
 import sys
+import pandas
+import numpy
 
 msg = "Hello William Xepeda!"
 print(msg)
