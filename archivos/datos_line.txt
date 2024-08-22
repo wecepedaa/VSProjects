@@ -1,0 +1,4 @@
+1 archivos de mis datos.txt
+2 print _myfile.read
+3 archivos de mis datos.txt
+4 print _myfile.read

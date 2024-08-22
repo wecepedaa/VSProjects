@@ -1,0 +1,1 @@
+archivos//mis datos.txt print(myfile.read())
