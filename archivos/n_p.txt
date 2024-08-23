@@ -1,0 +1,7 @@
+Los datos son: 
+Nombre: William 	Apellido: Cepeda 
+Nombre: Edy 	Apellido: Xepeda 
+Nombre: Eduardo 	Apellido: Raza 
+Nombre: Carlo 	Apellido: Astudillo 
+Nombre: Xime 	Apellido: Cantos 
+Fin del archivo

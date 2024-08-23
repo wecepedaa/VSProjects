@@ -1,7 +1,7 @@
 import pandas as pd
 
 #df = pd.read_csv("archivos\\datos.csv", names =["Nombre","Apellido","Edad"])
-df = pd.read_csv("archivos\\datos.csv")
+df = pd.read_csv(".//archivos//datos.csv")
 
 # obteniendo datos de la columna nombre
 nombres =df["nombre"]
